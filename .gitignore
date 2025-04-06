@@ -21,3 +21,4 @@ package-lock.json
 xm3js.iml
 material_theme_project_new.xml
 !commands/livery/temp/.gitkeep
+*.DS_Store
